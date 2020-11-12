@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: workabit.github.io
+Token: d34e56cb4020fee4d7bede86580787f84a30a4be6b5dec567d50728ed98593b6
